@@ -6,4 +6,4 @@
 ### If you find me or my code interesting you can always contact me on [Twitter](twitter.com/Claudio_TheDev) or Via [Email](mailto:drealclaudio@gmail.com)
 
 
-![Claudio's Github Stats](https://github-readme-stats.vercel.app/api?username=Claudioibe)]
+![Claudio's Github Stats](https://github-readme-stats.vercel.app/api?username=Claudioibe)
